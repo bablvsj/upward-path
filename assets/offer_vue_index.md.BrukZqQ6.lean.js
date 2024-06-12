@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.SWC5TOcr.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"offer/vue/index.md","filePath":"offer/vue/index.md","lastUpdated":1718207239000}'),r={name:"offer/vue/index.md"};function o(n,s,d,c,f,i){return a(),t("div")}const m=e(r,[["render",o]]);export{_ as __pageData,m as default};
