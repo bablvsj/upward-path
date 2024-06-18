@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.DialySl-.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"interview/css.md","filePath":"interview/css.md","lastUpdated":1718729119000}'),a={name:"interview/css.md"};function r(c,n,o,i,d,p){return s(),t("div")}const f=e(a,[["render",r]]);export{m as __pageData,f as default};
