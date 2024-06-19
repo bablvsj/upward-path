@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.DialySl-.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"interview/vue3.md","filePath":"interview/vue3.md","lastUpdated":1718729119000}'),r={name:"interview/vue3.md"};function n(o,s,i,c,d,p){return a(),t("div")}const v=e(r,[["render",n]]);export{m as __pageData,v as default};
